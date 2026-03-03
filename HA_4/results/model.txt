@@ -1,0 +1,31 @@
+resize_wh=(64, 64)
+binary_threshold=None
+test_ratio=0.25
+seed=0
+solver=SCS
+hard_margin_tried=True
+soft_margin_C=10.0
+n_features=4096
+b=1.2434319779892242
+K (first 50):
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+TRAIN metrics:
+tp=367
+tn=383
+fp=0
+fn=0
+accuracy=1.0
+precision=1.0
+recall=1.0
+f1=1.0
+
+TEST metrics:
+tp=133
+tn=117
+fp=0
+fn=0
+accuracy=1.0
+precision=1.0
+recall=1.0
+f1=1.0
